@@ -1,3 +1,2 @@
 # latihan-branch
-ini development branch
-
+ini branch main
