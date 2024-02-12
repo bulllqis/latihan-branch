@@ -1,2 +1,2 @@
 # latihan-branch
-ini latihan branch
+ini branch main
